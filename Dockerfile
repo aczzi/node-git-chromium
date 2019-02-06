@@ -1,4 +1,4 @@
-FROM node:10.15-slim
+FROM node:10.15.1-slim
 
 LABEL MAINTAINER killzoner "https://github.com/killzoner"
 
