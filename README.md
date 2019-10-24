@@ -1,5 +1,5 @@
 # node-git-chromium
 
-Docker image to build node 10 and chrome headless based tests
+Docker image to build node 12 and chrome headless based tests
 
-Updated to node v10.16.3
+Updated to node v12.13.0
